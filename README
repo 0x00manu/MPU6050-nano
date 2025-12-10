@@ -1,0 +1,9 @@
+#   MPU6050-nano    #
+##  Connection diagram  ##
+nano    mpu6050
+SCL A5  SCL
+SDA A4  SDA
+3.3     3.3
+GND     GND
+
+Read @115200
