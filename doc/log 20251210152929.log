@@ -139,4 +139,50 @@ Temperature: 26.95 degC
 
 Acceleration X: 2.57, Y: -3.37, Z: -10.35 m/s^2
 Rotation X: 0.06, Y: -0.05, Z: 0.05 rad/s
-Temperature: 2
+Temperature: 26.95 degC
+
+MPU6050 Found!
+Accelerometer range set to: +-8G
+Gyro range set to: +- 500 deg/s
+Filter bandwidth set to: 21 Hz
+
+Acceleration X: -1.89, Y: -6.77, Z: -8.22 m/s^2
+Rotation X: -0.03, Y: 0.03, Z: 0.02 rad/s
+Temperature: 23.75 degC
+
+Acceleration X: -1.81, Y: -6.61, Z: -8.00 m/s^2
+Rotation X: 0.01, Y: 0.08, Z: 0.01 rad/s
+Temperature: 23.79 degC
+
+Acceleration X: -1.74, Y: -6.79, Z: -8.42 m/s^2
+Rotation X: 0.06, Y: 0.10, Z: 0.01 rad/s
+Temperature: 23.81 degC
+
+Acceleration X: -1.81, Y: -6.55, Z: -7.99 m/s^2
+Rotation X: 0.04, Y: 0.06, Z: 0.00 rad/s
+Temperature: 23.84 degC
+
+Acceleration X: -1.76, Y: -6.55, Z: -7.95 m/s^2
+Rotation X: -0.09, Y: 0.00, Z: 0.01 rad/s
+Temperature: 23.84 degC
+
+Acceleration X: -1.80, Y: -6.55, Z: -8.04 m/s^2
+Rotation X: -0.05, Y: 0.01, Z: 0.04 rad/s
+Temperature: 23.86 degC
+
+Acceleration X: -1.76, Y: -6.61, Z: -8.06 m/s^2
+Rotation X: 0.00, Y: 0.04, Z: 0.01 rad/s
+Temperature: 23.86 degC
+
+Acceleration X: -1.79, Y: -6.55, Z: -8.01 m/s^2
+Rotation X: 0.01, Y: 0.03, Z: 0.03 rad/s
+Temperature: 23.87 degC
+
+Acceleration X: -1.80, Y: -6.58, Z: -7.96 m/s^2
+Rotation X: -0.04, Y: 0.02, Z: -0.01 rad/s
+Temperature: 23.89 degC
+
+Acceleration X: -1.74, Y: -6.63, Z: -8.13 m/s^2
+Rotation X: -0.06, Y: 0.00, Z: -0.02 rad/s
+Temperature: 23.89 degC
+
